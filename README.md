@@ -1,10 +1,9 @@
 # Open Transport
 
-<<<<<<< HEAD
+HEAD
  web pour covoiturage. merciiiii  lprgl2
-=======
+
 AZERTY. merciiiii  lprgl2
->>>>>>> b6b39ae06095f7c624345dfdc53c811534858183
 
 ## Getting Started
 
